@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Parva</h1>
 <h3 align="center">💻 Passionate Frontend & Backend Developer | Constantly Learning and Building with Python, JavaScript, and PHP. 🎯 Dedicated to clean code, creative solutions, and continuous growth in full-stack development. ✨ Marvel Cinematic Universe enthusiast and tech explorer.</h3>
 
-- 🔭 I’m currently working on **A 3D simulation game**
+- 🔭 I’m currently working on **a portfolio website**
 
 - 🌱 I’m currently learning **Python, Js, PHP, HTML**
 
