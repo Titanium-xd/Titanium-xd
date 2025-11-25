@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Python, Js, PHP, HTML**
 
-- 📫 How to reach me **chexane93@gmail.com**
+- 📫 How to reach me **parvatrivedi37@gmail.com**
 
 - ⚡ Fun fact **The first computer game ever made, called Spacewar!, was created in 1962 — before computer monitors were even common! 👾**
 
