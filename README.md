@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **a portfolio website**
 
-- 🌱 I’m currently learning **Python, Js, PHP, HTML**
+- 🌱 I’m currently learning **Python, Js, Ai, Web Technologies**
 
 - 📫 How to reach me **parvatrivedi37@gmail.com**
 
