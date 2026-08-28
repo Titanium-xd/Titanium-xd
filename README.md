@@ -1,7 +1,7 @@
 <h1 align="center">Hi ✌️, I'm Parva</h1>
 <h3 align="center">AI/ML & Data Science Enthusiast | AI Engineer in the Making | Full-Stack Developer</h3>
 
-I'm Parva Trivedi, a Computer Science and Engineering student passionate about Artificial Intelligence, Machine Learning, Data Science, and building useful software. I'm currently deepening my skills in AI/ML, Data Science, AI Engineering, advanced Python, libraries, and DSA. I've also worked hands-on with AI, MCP, Agentic AI, full-stack development, and various personal projects.
+I'm Parva Trivedi, a Computer Science and Engineering student passionate about Artificial Intelligence, Machine Learning, Data Science, and building useful software. I'm currently deepening my skills in AI/ML, Data Science, AI Engineering, advanced Python, libraries, and DSA. I've also worked hands-on with AI, MCP, Agentic AI, full-stack apps, and various personal projects.
 
 * ✉️  You can contact me at [parvatrivedi37@gmail.com](mailto:parvatrivedi37@gmail.com)
 * 🚀  I'm currently working on LumaCut, BiteCheck, VibeCheck, Chrome Extensions, and several other personal projects focused on AI, automation, and useful everyday tools. \[[---Click here to check out LumaCut---\]](http://5a6a26d3.luma-cut.pages.dev/)]
