@@ -61,7 +61,7 @@ I build software that turns ideas into useful products — currently focused on 
 <p>
   <strong>BiteCheck</strong>‎ ‎ ‎‎ ‎  ‎— Founder
   <br>
-  <a href="https://1dfd44eb.luma-cut.pages.dev/"><strong>LumaCut</strong></a> ‎ ‎ ‎ ‎ — Developer
+  <strong>LumaCut</strong> ‎ ‎ ‎ ‎ — Developer
   <br>
   <strong>VibeCheck</strong>‎ ‎ — Initiator
   <br>
