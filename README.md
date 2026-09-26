@@ -3,18 +3,15 @@
 <img src="https://readme-typing-svg.demolab.com?font=Unbounded&weight=700&size=42&duration=2000&color=E8873A&center=true&vCenter=true&width=480&repeat=false&lines=Parva+Trivedi" alt="Parva Trivedi" />
 
 ![divider](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=55&section=header&text=%20)
-
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=15&duration=5000&pause=1000&color=9CA3AF&center=true&vCenter=true&width=480&lines=Computer+Science+Student;Python+%C2%B7+AI+%2F+ML+%C2%B7+Full-Stack+Development;Building+intelligent+applications" alt="Typing SVG" />
-
 </div>
-
 <br>
 
 I build software that turns ideas into useful products — currently focused on AI engineering, GenAI, and backend systems.
 
 <br>
 
-### Stack
+<h2>Stack</h2>
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white)
@@ -26,7 +23,7 @@ I build software that turns ideas into useful products — currently focused on 
 
 <br>
 
-### Tools I Work With
+<h2>Tools I Work With</h2>
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
