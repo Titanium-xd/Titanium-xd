@@ -57,9 +57,7 @@ _BiteCheck · LumaCut · VibeCheck · TiDex · Visionary · NoesisAI · Authomal
 
 <h2>Case Study</h2>
 
-<p>
-  <a href="https://1e8f359f.neuroweave.pages.dev/"><strong>NeuroWeave</strong></a> — Connectome-derived architectures vs conventional AI
-</p>
+_NeuroWeave_ — Connectome-derived architectures vs conventional AI
 
 <br>
 
