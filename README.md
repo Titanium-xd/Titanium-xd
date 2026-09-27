@@ -6,7 +6,7 @@
 <img src="https://readme-typing-svg.demolab.com?font=Montserrat&size=18&duration=5000&pause=1000&color=A7B0C0&center=true&vCenter=true&width=480&lines=Computer+Science+Student;Python+%C2%B7+AI+%2F+ML+%C2%B7+Full-Stack+Development;Building+intelligent+applications" alt="Typing SVG" />
 </div>
 <br>
-
+<div align="center">
 <h2>Stack</h2>
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
@@ -60,7 +60,7 @@ _BiteCheck · LumaCut · VibeCheck · TiDex · Visionary · NoesisAI · Authomal
 _NeuroWeave_ — Connectome-derived architectures vs conventional AI
 
 <br>
-
+</div?
 <p align="left"><img src="./assets/work-line.gif" width="20%" alt=""><img src="./assets/work-line.gif" width="20%" alt=""><img src="./assets/work-line.gif" width="20%" alt=""><img src="./assets/work-line.gif" width="20%" alt=""><img src="./assets/work-line.gif" width="20%" alt=""></p>
 
 <p align="center"> <a href="https://www.github.com/Titanium-xd" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="GitHub" title="GitHub" /> </picture> </a> <a href="https://discord.com/users/titanium.dc" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" alt="Discord" title="Discord" /> </picture> </a><a href="mailto:parvatrivedi37@gmail.com">
