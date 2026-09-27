@@ -1,14 +1,10 @@
+
 <div align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Unbounded&weight=700&size=42&duration=2000&color=D8C39A&center=true&vCenter=true&width=480&repeat=false&lines=Parva+Trivedi" alt="Parva Trivedi" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Unbounded&weight=700&size=42&duration=2000&color=E8873A&center=true&vCenter=true&width=480&repeat=false&lines=Parva+Trivedi" alt="Parva Trivedi" />
-
-![divider](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=55&section=header&text=%20)
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=15&duration=5000&pause=1000&color=9CA3AF&center=true&vCenter=true&width=480&lines=Computer+Science+Student;Python+%C2%B7+AI+%2F+ML+%C2%B7+Full-Stack+Development;Building+intelligent+applications" alt="Typing SVG" />
+<p align="left"><img src="./assets/work-line.gif" width="20%" alt=""><img src="./assets/work-line.gif" width="20%" alt=""><img src="./assets/work-line.gif" width="20%" alt=""><img src="./assets/work-line.gif" width="20%" alt=""><img src="./assets/work-line.gif" width="20%" alt=""></p>
+<img src="https://readme-typing-svg.demolab.com?font=Montserrat&size=18&duration=5000&pause=1000&color=A7B0C0&center=true&vCenter=true&width=480&lines=Computer+Science+Student;Python+%C2%B7+AI+%2F+ML+%C2%B7+Full-Stack+Development;Building+intelligent+applications" alt="Typing SVG" />
 </div>
-<br>
-
-I build software that turns ideas into useful products
-
 <br>
 
 <h2>Stack</h2>
@@ -53,19 +49,9 @@ I build software that turns ideas into useful products
 
 <br>
 
-<h3>Selected Work</h3>
+<h2>Selected Work | Projects</h2>
 
-<img src="./assets/work-line.gif" width="100%" alt="">
-
-<p>
-  <a href="YOUR_LINK">BiteCheck</a> ·
-  <a href="YOUR_LINK">LumaCut</a> ·
-  <a href="YOUR_LINK">VibeCheck</a> ·
-  <a href="YOUR_LINK">TiDex</a> ·
-  <a href="YOUR_LINK">Visionary</a><br>
-  <a href="YOUR_LINK">NoesisAI</a> ·
-  <a href="YOUR_LINK">Authomaly</a>
-</p>
+_BiteCheck · LumaCut · VibeCheck · TiDex · Visionary · NoesisAI · Authomaly_
 
 <br>
 
@@ -77,8 +63,9 @@ I build software that turns ideas into useful products
 
 <br>
 
-![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=55&section=footer&reversal=true)
+<p align="left"><img src="./assets/work-line.gif" width="20%" alt=""><img src="./assets/work-line.gif" width="20%" alt=""><img src="./assets/work-line.gif" width="20%" alt=""><img src="./assets/work-line.gif" width="20%" alt=""><img src="./assets/work-line.gif" width="20%" alt=""></p>
 
 <p align="center"> <a href="https://www.github.com/Titanium-xd" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="GitHub" title="GitHub" /> </picture> </a> <a href="https://discord.com/users/titanium.dc" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" alt="Discord" title="Discord" /> </picture> </a><a href="mailto:parvatrivedi37@gmail.com">
   <img src="https://cdn.simpleicons.org/gmail/ffffff" width="32" height="32" alt="Email">
-</a></p>
+</a>
+</p>
