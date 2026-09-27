@@ -7,7 +7,7 @@
 </div>
 <br>
 
-I build software that turns ideas into useful products — currently focused on AI engineering, GenAI, and backend systems.
+I build software that turns ideas into useful products
 
 <br>
 
@@ -53,23 +53,18 @@ I build software that turns ideas into useful products — currently focused on 
 
 <br>
 
-<h2>Top Projects</h2>
+<h3>Selected Work</h3>
+
+<img src="./assets/work-line.gif" width="100%" alt="">
 
 <p>
-  <strong>BiteCheck</strong>‎ ‎ ‎‎ ‎  ‎— Founder
-  <br>
-  <strong>LumaCut</strong> ‎ ‎ ‎ ‎ — Developer
-  <br>
-  <strong>VibeCheck</strong>‎ ‎ — Initiator
-  <br>
-  <strong>TiDex</strong>‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎‎ ‎  — Director
-  <br>
-  <strong>Visionary</strong>‎ ‎ ‎ ‎ — Contributor
-  <br>
-  <strong>NoesisAi</strong>‎ ‎ ‎ ‎ ‎ — Creator
-  <br>
-  <strong>Authomaly</strong>‎ ‎ ‎— Initiator
-  
+  <a href="YOUR_LINK">BiteCheck</a> ·
+  <a href="YOUR_LINK">LumaCut</a> ·
+  <a href="YOUR_LINK">VibeCheck</a> ·
+  <a href="YOUR_LINK">TiDex</a> ·
+  <a href="YOUR_LINK">Visionary</a><br>
+  <a href="YOUR_LINK">NoesisAI</a> ·
+  <a href="YOUR_LINK">Authomaly</a>
 </p>
 
 <br>
