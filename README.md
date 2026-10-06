@@ -52,7 +52,7 @@
 
 <h2>Selected Work | Projects</h2>
 
-_BiteCheck · LumaCut · VibeCheck · TiDex · Visionary · NoesisAI · Authomaly_
+_Echoryn (Production-quality Prototype) · BiteCheck · LumaCut · VibeCheck · TiDex · Visionary · NoesisAI · Authomaly_
 
 <br>
 
